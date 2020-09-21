@@ -110,7 +110,7 @@ class Contact extends Component {
                               rows="15"
                               id="contactMessage"
                               name="message"
-                              re
+                              required
                            ></textarea>
                         </div>
 
