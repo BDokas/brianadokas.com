@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"Brian Dokas",
+    "occupation":"developer",
+    "description":" amateur photographer, avid skiier, Eagle Scout, and car fanatic",
+    "image":"profilepic.jpg",
+    "bio":"I graduated from Michigan State University with a bachelor's degree in computer science with a business cognate. I two years of internship experience and four years of total CS experience. I am most comfortable with Python, Java, and Javascript.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "BrianADokas@gmail.com",
+    "phone": "734-474-9729",
+    "address":{
+      "city":"Ann Arbor",
+      "state":"Michigan",
+      "zip": "48105"
+    },
+    "website": "http://www.brianadokas.com",
+    "resumedownload":"https://drive.google.com/file/d/1MBdCc1HyFKbASqO4p9EdQDei41BI5uRu/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/GoodLuckBrianD",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brian-dokas-ba8aaa190/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/bdokas/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/BDokas",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"flickr",
+        "url":"https://www.flickr.com/photos/159978752@N05/",
+        "className":"fa fa-flickr"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Michigan State University",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"August 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Flickr",
+        "title":"Back-end Intern ",
+        "years":"June 2019 - August 2019",
+        "description":"Developed a Java RESTful client which manages the sending of all Flickr emails. Developed with scalability in mind, allowing Docker instances to be spun up as needed. Managed the development and build pipelines using AWS services."
+      },
+      {
+        "company":"University of Michigan Transportation Research Institute",
+        "title":"Software Engineer Intern ",
+        "years":"May 2018 - August 2018",
+        "description":"Developed Python FreeCAD plugins for military soldier seating placement. Tasks included creating dynamic soldier accommodation models in various military vehicles, implementing useful frontend features for efficient usability, managing anthropometric data from test subjects, and optimizing preexisting 3D models."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"40%"
+      },
+      {
+        "name":"Linux",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Lombard Street",
+        "category":"San Fransisco 2019",
+        "image":"lombard_street.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50366237212/in/dateposted-public/"
+      },
+      {
+        "title":"Boarding at Big Sky",
+        "category":"Big Sky 2017",
+        "image":"big_sky.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50366237722/in/dateposted-public/"
+      },
+      {
+        "title":"Grand Tetons",
+        "category":"Road Trip",
+        "image":"tetons.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50365384408/in/dateposted-public/"
+      },
+      {
+        "title":"Maggie",
+        "category":"Upper Peninsula",
+        "image":"maggie.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50366237192/in/dateposted-public/"
+      },
+      {
+        "title":"Copper Harbor",
+        "category":"Upper Peninsula",
+        "image":"copper_harbor.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50366237242/in/dateposted-public/"
+      },
+      {
+        "title":"San Fransisco Skyline",
+        "category":"San Fransisco 2019",
+        "image":"sf_skyline.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50365384448/in/dateposted-public/"
+      },
+      {
+        "title":"Baz",
+        "category":"Upper Peninsula",
+        "image":"baz.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50366080521/in/dateposted-public/"
+      },
+      {
+        "title":"Raven",
+        "category":"Road Trip",
+        "image":"raven.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50365384908/in/dateposted-public/"
+      },
+      {
+        "title":"River in Yellowstone",
+        "category":"Road Trip",
+        "image":"river.jpg",
+        "url":"https://www.flickr.com/photos/159978752@N05/50365384898/in/dateposted-public/"
+      }
+    ]
+  }
+}
