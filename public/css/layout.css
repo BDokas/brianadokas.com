@@ -875,6 +875,7 @@ call-to-action .button {
 	border: none;
    cursor: pointer;
    height: auto;
+   width: auto;
    display: inline-block;
 	border-radius: 3px;
    margin-left: 26%;
