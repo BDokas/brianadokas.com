@@ -14,7 +14,7 @@
       "zip": "48105"
     },
     "website": "http://www.brianadokas.com",
-    "resumedownload":"https://drive.google.com/file/d/1MBdCc1HyFKbASqO4p9EdQDei41BI5uRu/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1cFdlH1tsfc4pHGr2_m8LNJtfmY-lnMXh/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -57,7 +57,7 @@
         "company":"Flickr",
         "title":"Back-end Intern ",
         "years":"June 2019 - August 2019",
-        "description":"Developed a Java RESTful client which manages the sending of all Flickr emails. Developed with scalability in mind, allowing Docker instances to be spun up as needed. Managed the development and build pipelines using AWS services."
+        "description":"Developed and Deployed a Java RESTful client which manages the sending of all Flickr emails. Developed with scalability in mind, allowing Docker instances to be spun up as needed. Managed the development and build pipelines using AWS services."
       },
       {
         "company":"University of Michigan Transportation Research Institute",
